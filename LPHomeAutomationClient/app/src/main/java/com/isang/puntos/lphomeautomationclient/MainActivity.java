@@ -180,7 +180,7 @@ public class MainActivity extends AppCompatActivity
                     if(ipAddress.matches("[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}"))
                     {
                         connectTask = new ConnectTask();
-                        connectTask.execute("192.168.1.2");
+                        connectTask.execute(ipAddress);
                         ((Button) findViewById(R.id.button)).setText("DISCONNECT");
                     }
                     else

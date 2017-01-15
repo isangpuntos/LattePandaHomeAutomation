@@ -48,7 +48,7 @@ public class TCPClient
             //here you must put your computer's IP address.
             InetAddress serverAddr = InetAddress.getByName(SERVERIP);
 
-            Log.e("TCP Client", "C: Connecting...");
+            Log.e("TCP Client", "C: Connecting to " + SERVERIP + "...");
 
             //create a socket to make the connection with the server
             Socket socket = new Socket(serverAddr, SERVERPORT);
