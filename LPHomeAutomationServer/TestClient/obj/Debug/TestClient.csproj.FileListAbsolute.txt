@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\LPHomeAutomationServer\TestClient\bin\Debug\TestClient.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\LPHomeAutomationServer\TestClient\bin\Debug\TestClient.exe
+c:\users\admin\documents\visual studio 2015\Projects\LPHomeAutomationServer\TestClient\bin\Debug\TestClient.pdb
+c:\users\admin\documents\visual studio 2015\Projects\LPHomeAutomationServer\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\LPHomeAutomationServer\TestClient\obj\Debug\TestClient.exe
+c:\users\admin\documents\visual studio 2015\Projects\LPHomeAutomationServer\TestClient\obj\Debug\TestClient.pdb

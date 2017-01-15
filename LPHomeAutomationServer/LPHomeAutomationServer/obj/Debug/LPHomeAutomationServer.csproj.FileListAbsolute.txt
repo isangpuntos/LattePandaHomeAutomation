@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\LPHomeAutomationServer\LPHomeAutomationServer\bin\Debug\LPHomeAutomationServer.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\LPHomeAutomationServer\LPHomeAutomationServer\bin\Debug\LPHomeAutomationServer.exe
+c:\users\admin\documents\visual studio 2015\Projects\LPHomeAutomationServer\LPHomeAutomationServer\bin\Debug\LPHomeAutomationServer.pdb
+c:\users\admin\documents\visual studio 2015\Projects\LPHomeAutomationServer\LPHomeAutomationServer\obj\Debug\LPHomeAutomationServer.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\LPHomeAutomationServer\LPHomeAutomationServer\obj\Debug\LPHomeAutomationServer.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\LPHomeAutomationServer\LPHomeAutomationServer\obj\Debug\LPHomeAutomationServer.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\LPHomeAutomationServer\LPHomeAutomationServer\obj\Debug\LPHomeAutomationServer.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\LPHomeAutomationServer\LPHomeAutomationServer\obj\Debug\LPHomeAutomationServer.exe
+c:\users\admin\documents\visual studio 2015\Projects\LPHomeAutomationServer\LPHomeAutomationServer\obj\Debug\LPHomeAutomationServer.pdb

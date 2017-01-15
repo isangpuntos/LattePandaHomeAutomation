@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LP Home Automation Client</string>
+    <string name="server">Server:</string>
+    <string name="connect">\u0020 Connect  \u0020</string>
+    <string name="outlet">Outlet:</string>
+</resources>

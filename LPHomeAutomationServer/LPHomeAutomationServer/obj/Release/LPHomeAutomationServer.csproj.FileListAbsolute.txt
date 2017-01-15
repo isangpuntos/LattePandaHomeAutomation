@@ -1,0 +1,8 @@
+C:\Users\ADMIN\documents\visual studio 2015\Projects\LPHomeAutomationServer\LPHomeAutomationServer\bin\Release\LPHomeAutomationServer.exe.config
+C:\Users\ADMIN\documents\visual studio 2015\Projects\LPHomeAutomationServer\LPHomeAutomationServer\bin\Release\LPHomeAutomationServer.exe
+C:\Users\ADMIN\documents\visual studio 2015\Projects\LPHomeAutomationServer\LPHomeAutomationServer\bin\Release\LPHomeAutomationServer.pdb
+C:\Users\ADMIN\documents\visual studio 2015\Projects\LPHomeAutomationServer\LPHomeAutomationServer\obj\Release\LPHomeAutomationServer.Form1.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\LPHomeAutomationServer\LPHomeAutomationServer\obj\Release\LPHomeAutomationServer.Properties.Resources.resources
+C:\Users\ADMIN\documents\visual studio 2015\Projects\LPHomeAutomationServer\LPHomeAutomationServer\obj\Release\LPHomeAutomationServer.csproj.GenerateResource.Cache
+C:\Users\ADMIN\documents\visual studio 2015\Projects\LPHomeAutomationServer\LPHomeAutomationServer\obj\Release\LPHomeAutomationServer.exe
+C:\Users\ADMIN\documents\visual studio 2015\Projects\LPHomeAutomationServer\LPHomeAutomationServer\obj\Release\LPHomeAutomationServer.pdb
